@@ -1,34 +1,25 @@
-<!-- Profile Header -->
-<h1 align="center">Welcome to bbing's github</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=gradient&text=BBING&textBg=false&fontAlign=80&rotate=10&animation=blinking&section=header&reversal=true&fontSize=25&strokeWidth=1&fontColor=000080&fontAlignY=0"/>
 
+<!--hr-->
 
-<!-- <p align="center">
-  🧑‍💻 Developer | 🌱 Learner | 💡 Creator <br>
-  Passionate about building things that matter.
-</p> -->
-
-
-
-<div align="center">
+<details>
+<summary>study</summary>
   
-### ✨study
-
 ![YOLO](https://img.shields.io/badge/YOLO-00BCD4?logo=github&logoColor=white&style=flat)
 ![RAG](https://img.shields.io/badge/RAG-FFB300?logo=databricks&logoColor=white&style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-2B2D42?logo=langchain&logoColor=white&style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-2DD881?logo=ollama&logoColor=white&style=flat)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F61?logo=llama&logoColor=white&style=flat)
 
-<br>
+</details>
 
-### 🛠️ Tech Stack
 
-| 분류 | 스택 |
-|:--------------|:----------------------------------------------------------------------|
+<details>
+<summary>Tech Stack</summary>
+
+|분류|스택|
+|:-|:-|
 | 📌Language | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) |
 | 📌Back-end | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat) ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?logo=spring&logoColor=white&style=flat) |
 | 📌Front-end | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white&style=flat) ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?logo=openlayers&logoColor=white&style=flat) |
@@ -38,28 +29,12 @@
 | 📌Version Control | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![SVN](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=flat) |
 | 📌Test | ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=flat) |
 
-<br>
+</details>
 
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ldb0316&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldb0316&layout=compact&theme=tokyonight" height="165" />
 </p>
-
-
-<!-- Fun Section
-### ✨ About bbzz
-- 💬 닉네임은 벌 소리에서 왔어요... 윙윙~
-- 🤔 문제 해결을 좋아하고, 팀과 협업하는 걸 즐깁니다.
-- 🚀 사이드 프로젝트와 오픈소스 기여를 좋아해요.
-- 📚 항상 배우고 성장하는 중입니다.
 -->
-<!-- Quote / Motto
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
--->
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
-</p>
-
-</div>
