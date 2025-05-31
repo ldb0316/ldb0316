@@ -7,15 +7,17 @@
 </p> -->
 
 
-<!-- Tech Stack 
-### 🛠️ Tech Stack
-- 💻 Languages: **JavaScript**, **Python**, **TypeScript**
-- 🌐 Frontend: **React**, **Next.js**, **HTML5**, **CSS3**
-- 🔧 Tools: **Git**, **VSCode**, **Figma**, **Postman**
-- ☁️ Learning: **Docker**, **AWS**, **Go**
--->
-
 <div align="center">
+  
+### ✨leaning now..
+
+![YOLO](https://img.shields.io/badge/YOLO-00BCD4?logo=github&logoColor=white&style=flat)
+![RAG](https://img.shields.io/badge/RAG-FFB300?logo=databricks&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-2B2D42?logo=langchain&logoColor=white&style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-2DD881?logo=ollama&logoColor=white&style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F61?logo=llama&logoColor=white&style=flat)
+
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -59,8 +61,7 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=flat)
 <!-- GitHub Stats -->
 
-
-<hr>
+<br>
 
 ### 📊 GitHub Stats
 <p align="center">
