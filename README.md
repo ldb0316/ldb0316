@@ -1,6 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Welcome to bbing's github</h1>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&textBg=false"/>
+</p>
+
+
 <!-- <p align="center">
   🧑‍💻 Developer | 🌱 Learner | 💡 Creator <br>
   Passionate about building things that matter.
