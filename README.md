@@ -15,6 +15,8 @@
 - ☁️ Learning: **Docker**, **AWS**, **Go**
 -->
 
+<div align="center">
+
 ### 🛠️ Tech Stack
 
 #### Language
@@ -22,11 +24,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-#### Back-end skill
+#### Back-end
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F?logo=spring&logoColor=white&style=flat)
 
-#### Front-end skill
+#### Front-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
@@ -56,7 +59,8 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=flat)
 <!-- GitHub Stats -->
 
-<hr/>
+</div>
+
 
 ### 📊 GitHub Stats
 <p align="center">
