@@ -1,8 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=gradient&text=BBING&textBg=false&fontAlign=80&rotate=10&animation=blinking&section=header&reversal=true&fontSize=25&strokeWidth=1&fontColor=000080&fontAlignY=0"/>
 
-<!--hr-->
-
 <details>
 <summary>study</summary>
   
