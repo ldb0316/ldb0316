@@ -59,8 +59,8 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=flat)
 <!-- GitHub Stats -->
 
-</div>
 
+<hr>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -83,3 +83,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </p>
+
+</div>
